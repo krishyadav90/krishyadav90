@@ -1,7 +1,3 @@
-<!--Logo-->
-
-![logo](https://github.com/krishyadav90/krishyadav90/blob/main/Github%20Banner.png)
-
 <!--Header Part-->
 
 <p align="center">
@@ -10,20 +6,11 @@
 
 <!--Bio/About Part-->
 
-
-<!--   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=700&height=80&duration=4000&lines=Hello,+Everyone!+👋;Welcome+to+my+GitHub+profile!+I'm+Krish,+a+Software+Developer!;+Coding+is+my+passion!;Tech+enthusiast+and+problem-solver;System+and+DB+Admin;Welcome+to+my+GitHub+profile!"> -->
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=80&lines=Hello,+Everyone!+👋;Welcome+to+my+GitHub+Universe!+🌌;I'm+Krish,+a+Software+Developer+💻;Passionate+about+coding+and+scalable+systems;Tech+Enthusiast+and+Problem+Solver;System+Admin+%26+Database+Expert;Always+building,+exploring,+and+growing+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=80&lines=Hello,+Everyone!+👋;Welcome+to+my+GitHub+Journey!+🌌;I'm+Krish+yadav,+a+cybersecurity+enthusiast+&+Software+Developer+💻;Dedicated+to+excelling+in+coding,+scalable+systems,+and+cybersecurity+expertise;Tech+Enthusiast+and+Problem+Solver;Continuously+innovating,+exploring+new+horizons,+and+fostering+growth+🚀">
 </h1>
 
-
-
-<!--<h1 align="center">-->
-<!--    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Krish!;+I'm+a+software+Developer;+A+system+Administrator;+A+Database+Administrator;+and+a+tech+enthusiast+too.;"/>-->
-<!--</h1>-->
-
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A dedicated software developer with a passion for innovation and cybersecurity expertise, based in India</h3>
 
 <br/>
 
@@ -31,9 +18,9 @@
  
  🔭 I’m currently working on **Phishguard**
  
- 🌱 I’m currently learning **ai ml**
+ 🌱 I’m currently learning **Artificial Intelligence and Machine Learning technologies**
 
-💬 You can ask me about **JS, MySQL, Web Developement... or other things [here](https://github.com/krishyadav90/krishyadav90/issues)**
+💬 You can ask me about **JavaScript, python, Web Development, Cybersecurity... or other things [here](https://github.com/krishyadav90/krishyadav90/issues)**
 
 ⚡ Fun fact **Gicrosoft acquired GitHub in 2018 for a staggering $7.5 billion.**
 
