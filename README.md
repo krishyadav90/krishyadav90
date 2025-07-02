@@ -16,13 +16,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Phishguard**
+ 🔭 I’m currently working on **Phishguard and CodeCurtain**
  
  🌱 I’m currently learning **Artificial Intelligence and Machine Learning technologies**
 
 💬 You can ask me about **JavaScript, python, Web Development, Cybersecurity... or other things [here](https://github.com/krishyadav90/krishyadav90/issues)**
 
-⚡ Fun fact **Gicrosoft acquired GitHub in 2018 for a staggering $7.5 billion.**
+⚡ Fun fact **GitHub's Octocat mascot, Mona, has five arms, symbolizing the five core values of collaboration, transparency, efficiency, creativity, and community!**
 
 <h2 align="center">🌍 Connect with Me 🌍</h2>
 
@@ -63,8 +63,8 @@
 </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,idea,github,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,c,cpp,java,php,mysql,nginx,arduino" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,ruby" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,c,java,mysql,linux" /><br>
 </div>
 
 <br/>
@@ -106,19 +106,19 @@
 
 <!--Projects Showcase-->
 
-<h2 align="center">🛠️ Projects Showcase 🛠️</h2>
+<h2 align="center">🛠️ Project Gallery 🛠️</h2>
 <div align="center">
   <a href="https://github.com/krishyadav90/TaskMaSter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishyadav90&repo=attendance-assistant&theme=react&border_radius=10" alt="Project 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishyadav90&repo=TaskMaSter&theme=react&border_radius=10" alt="Project 1" />
   </a>
   <a href="https://github.com/krishyadav90/Travelease-A-Trip-Planner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishyadav90&repo=global-hospitals&theme=react&border_radius=10" alt="Project 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishyadav90&repo=Travelease-A-Trip-Planner&theme=react&border_radius=10" alt="Project 2" />
   </a>
   <a href="https://github.com/krishyadav90/QuiziFy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishyadav90&repo=waste-management-system&theme=react&border_radius=10" alt="Project 3" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishyadav90&repo=QuiziFy&theme=react&border_radius=10" alt="Project 3" />
   </a>
   <a href="https://github.com/krishyadav90/ProJobHub_IND">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishyadav90&repo=next-js-video-hub&theme=react&border_radius=10" alt="Project 4" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=krishyadav90&repo=ProJobHub_IND&theme=react&border_radius=10" alt="Project 4" />
   </a>
 </div>
 
@@ -135,5 +135,5 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
 </p>
 <div align="center">
-  Made with 💖 by krish 
+  Made with 💖 by krish Yadav
 </div>
