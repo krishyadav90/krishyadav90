@@ -102,7 +102,11 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-
+<h2 align="center">🏆 Achievements 🏆</h2>
+<div align="center">
+  <img src="https://krishyadav90-github-profile-trophy.vercel.app/?username=krishyadav90&theme=radical&row=1&column=7" alt="GitHub Trophies" />
+</div>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!--Projects Showcase-->
 
